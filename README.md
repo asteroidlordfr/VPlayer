@@ -20,4 +20,4 @@ This project is for educational and personal use only.
 Only **you** are responsible for how **you** use it.
 
 Any moderated actions took on your account is not my issue, that's yours.
-<small><span style="color:grey;">This project was made with [AutoHotkey](https://www.autohotkey.com/v2/)</span></small>
+This project was made with [AutoHotkey](https://www.autohotkey.com/v2/)
