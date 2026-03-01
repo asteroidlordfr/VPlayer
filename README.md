@@ -14,7 +14,7 @@ It comes with 30+ sheets built-in but also functionality to add your own via txt
 - Look at a sheet before using it, it could do unwanted things such as running CMD.
 - Different piano games/sites may use different key layouts.
 
-📜 Disclaimer
+## 📜 Disclaimer
 
 This project is for educational and personal use only.
 Only **you** are responsible for how **you** use it.
