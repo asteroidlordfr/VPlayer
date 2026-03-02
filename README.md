@@ -9,6 +9,9 @@ A simple, open-sourced Virtual Piano autoplayer which you can use for sites or g
 When a sheet is loaded, click the = or - key to start playing your selected sheet.
 It comes with 30+ sheets built-in but also functionality to add your own via txt files. It even supports categories!
 
+Want MIDI support? Use [this website](https://vpsheets.com/converter) to convert your MIDI to VirtualPiano sheets!
+Want MIDI files? Use [this website](https://bitmidi.com/) to find MIDI files!
+
 ## 💚 Contribute?
 Wanna contribute? Open a pull request and if it's good I'll push it to the main repository for everyone to use.
 
