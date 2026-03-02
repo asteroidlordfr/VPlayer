@@ -17,8 +17,7 @@ Want MIDI files? Use [this website](https://bitmidi.com/) to find MIDI files!
 Wanna contribute? Open a pull request and if it's good I'll push it to the main repository for everyone to use.
 
 ## ⚠️ Notes
-- Do not Alt-Tab while your playing or while not having a VP site open. It could press unwanted keys.
-- Look at a sheet before using it, it could do unwanted things such as running CMD.
+- Do not Alt-Tab into a non-piano applicatoin or site while playing. It will press the keys that are in your sheet.
 - Different piano games/sites may use different key layouts.
 - Holding down the play button could result in crashes
 
