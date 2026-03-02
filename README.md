@@ -10,6 +10,7 @@ When a sheet is loaded, click the = or - key to start playing your selected shee
 It comes with 30+ sheets built-in but also functionality to add your own via txt files. It even supports categories!
 
 Want MIDI support? Use [this website](https://vpsheets.com/converter) to convert your MIDI to VirtualPiano sheets!
+
 Want MIDI files? Use [this website](https://bitmidi.com/) to find MIDI files!
 
 ## 💚 Contribute?
