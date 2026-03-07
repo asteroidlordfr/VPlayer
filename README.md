@@ -1,6 +1,4 @@
-![release](https://img.shields.io/github/v/release/asteroidlordfr/VPlayer)
-![downloads](https://img.shields.io/github/downloads/asteroidlordfr/VPlayer/total)
-![stars](https://img.shields.io/github/stars/asteroidlordfr/VPlayer)
+![release](https://img.shields.io/github/v/release/asteroidlordfr/VPlayer) ![downloads](https://img.shields.io/github/downloads/asteroidlordfr/VPlayer/total) ![stars](https://img.shields.io/github/stars/asteroidlordfr/VPlayer)
 
 # 🎹 VPlayer
 A simple, open-sourced Virtual Piano autoplayer which you can use for sites or games like Roblox.
