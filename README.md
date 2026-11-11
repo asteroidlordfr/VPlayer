@@ -11,6 +11,8 @@ Want MIDI support? Use [this website](https://vpsheets.com/converter) to convert
 
 Want MIDI files? Use [this website](https://bitmidi.com/) to find MIDI files!
 
+Want extra sheets or practice? Use [PianoBlox](https://pianoblox.com/) for copy-ready Virtual Piano / Roblox notes, in-browser practice, and accuracy challenges with friends.
+
 ## 💚 Contribute?
 Wanna contribute? Open a pull request and if it's good I'll push it to the main repository for everyone to use.
 
